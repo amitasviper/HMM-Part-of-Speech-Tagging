@@ -194,8 +194,7 @@ def getMostProbableTags(sentence):
 	return anotated_sentence.strip()
 
 def startPredicting():
-	inputfile = getFileFromCommandLine()  # 'data/en_dev_raw.txt'
-	test_data = getFileContents(inputfile)
+	test_data = getFileFromCommandLine() # getFileContents('data/en_dev_raw.txt')
 	output = ''
 	for test_line in test_data:
 		predicted_tagged_line = getMostProbableTags(test_line)

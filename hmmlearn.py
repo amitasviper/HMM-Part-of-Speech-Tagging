@@ -270,8 +270,7 @@ def writeModelToFile(probability_transition_matrix, opening_probabilities, closi
 
 
 if __name__ == '__main__':
-	filename = getFileFromCommandLine() # 'data/en_train_tagged.txt'
-	tagged_data = getFileContents(filename)
+	tagged_data = getFileFromCommandLine() #getFileContents('data/en_train_tagged.txt')
 	tags_dict = getUniqueTags(tagged_data)
 
 	opening_probabilities = getOpenProbabilities(tagged_data, tags_dict)
