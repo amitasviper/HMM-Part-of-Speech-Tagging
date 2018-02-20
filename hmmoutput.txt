@@ -9,7 +9,7 @@
 五/CD 月/NNB 二十一/CD 日/NNB ,/, 努爾哈赤/RB 出城/VV 迎接/NN 前來/VV 瀋陽/NNP 的/DEC 科爾沁/NN 部/SFN 奧巴/. 貝勒/'' ./.
 他/PRP 花費/VV 了/AS 許多/CD 時間/NN 來/RB 比較/VV 加拿大/NNP 地質/NN 調查/NN 局/SFN 博物/NN 館/SFN 中/IN 的/DEC 恐龍/NN 化石/NN ./.
 1355/CD 年/NNB ,/, 勃蘭登堡/RB 被/BB 神聖/NNP 羅馬/NNP 帝國/NN 皇帝/NN 查理/NNP 四世/NNP 升/VV 為/VC 選侯/NNP 國/SFN ./.
-但是/RB 迪士尼/NNP 的/DEC 公主/NN 們/SFN 不會/MD 都/RB 太/RB 侷限/VV 於/IN 一/CD 個/NNB 範圍/NN 之內/JJ 了/UH 嗎/UH ?/.
+但是/RB 迪士尼/NNP 的/DEC 公主/NN 們/SFN 不會/MD 都/RB 太/RB 侷限/VV 於/IN 一/CD 個/NNB 範圍/NN 之內/IN 了/AS 嗎/UH ?/.
 華特/NNP 迪士尼/NNP 首次/CD 邀請/NN 數/CD 名/NNB 香港/NNP 人氣/NN 博客/NN ,/, 參與/VV 動畫/NN 《/( 勇敢/NN 傳說/NN 之/DEC 幻險/NN 森林/NN 》/) 配音/DEC 工作/NN ,/, 讓/VV 他們/PRP 與/IN 其他/DT 明星/NN 及/CC 專業/JJ 配音/NN 員/SFN 齊齊/DEC 聲演/NN 動畫/NN ./.
 1594/CD 年/NNB 秋/NN ,/, 在/IN 與/IN 特蘭西瓦尼亞/NN 和/CC 摩爾達維亞/NN 簽訂/VV 盟約/NN 之後/IN ,/, 米哈伊/NNP 起兵/NN 反抗/VV 奧斯曼/NNP 帝國/NN ,/, 參加/VV 神聖/NNP 羅馬/NNP 帝國/NN 發起/VV 的/DEC 十三/CD 年/NNB 戰爭/NN ./.
 在/IN 平原/NN 、/EC 塔/NN 、/EC 洞窟/NN 、/EC 海/NN 或/CC 迷宮/NN 中/IN 移動/VV 時/IN ,/, 玩家/NN 將/RB 會/MD 和/IN 隨機/RB 遇到/VV 的/DEC 敵人/NN 作戰/NN ./.
@@ -147,7 +147,7 @@
 施米特/NN 於/IN 1888/CD 年/NNB 生/VV 於/IN 威斯特伐里亞/NN 普勒騰貝格/NN 的/DEC 一/CD 個/NNB 天主/NNP 教/SFN 家庭/NN ./.
 理察/NN 在/IN 小/PFA 時候/NN 就/RB 對/IN 音樂/NN 很/RB 有/VV 興趣/NN ,/, 並且/RB 被/BB 培養/VV 為/VC 鋼琴/NN 奇才/NN ./.
 他/PRP 的/DEC 統治/NN 時間/NN 是/VC 從/IN 約/RB 1388/CD 年/NNB 至/CC 1420/CD 年/NNB ,/, 其中/NN 從/IN 1400/CD 年/NNB 至/CC 1405/CD 年/NNB 他/PRP 的/DEC 統治/NN 被/BB 帖木兒/VV 帝國/NN 中斷/VV ./.
-蘇聯/NNP 本來/RB 曾/RB 想/MD 再/RB 分設/VV 一/CD 種/NNB 1134A/NN 和/CC 一/CD 種/NNB 1134B/, 反潛/NNP 艦/SFN ,/, 也/RB 曾/RB 想/MD 將/BB 反潛/VV 的/DEC 任務/NN 都/RB 交給/VV 1124/NNP 型/SFN 小型/NN 反潛/NN 艦/SFN ,/, 但是/RB 發現/VV 小型/NN 艦/SFN 適應/VV 不/SFA 了/UH 遠海/, 任務/NN 於是/RB 還是/RB 發展/VV 了/AS 大型/JJ 反潛/NN 艦/SFN ./.
+蘇聯/NNP 本來/RB 曾/RB 想/MD 再/RB 分設/VV 一/CD 種/NNB 1134A/NN 和/CC 一/CD 種/NNB 1134B/, 反潛/NNP 艦/SFN ,/, 也/RB 曾/RB 想/MD 將/BB 反潛/VV 的/DEC 任務/NN 都/RB 交給/VV 1124/NNP 型/SFN 小型/NN 反潛/NN 艦/SFN ,/, 但是/RB 發現/VV 小型/NN 艦/SFN 適應/VV 不/RB 了/AS 遠海/NN 任務/NN 於是/RB 還是/RB 發展/VV 了/AS 大型/JJ 反潛/NN 艦/SFN ./.
 卡拉/NNP 膠/NNP 是/VC 食品/NN 添加/VV 劑/SFN 的/DEC 一/CD 種/NNB ./.
 他/PRP 生/VV 於/IN 第三/CD 紀元/NN 1259/CD 年/NNB ,/, 戰死/VV 於/IN 1447/CD 年/NNB ,/, 享年/VV 188/CD 歲/NNB ./.
 卡斯科奎姆/NNP 河/SFN (/( Kuskokwim/FW River/FW )/) 是/VC 美國/NNP 阿拉斯加/NNP 州/SFN 南部/NN 的/DEC 一/CD 條/NNB 河流/NN ./.
@@ -230,7 +230,7 @@
 他/PRP 幼年/NN 受/VV 過/AS 良好/JJ 的/DEC 教育/NN ,/, 通曉/VV 拉丁/NNP 語/SFN 和/CC 希臘/NNP 語/SFN ,/CD 能/SFN 誦/NNP 荷馬/NN 史詩/DEC 原文/NN ,/, 併/RB 到/VV 雅典/NNP 學/SFN 過/VV 哲學/NN ./.
 全詩/RB 計/VV 12/CD 卷/NNB ,/, 長達/VV 近/VV 萬/CD 行/NNB ,/, 是/VC 遵照/NN 奧古斯都/NN 的/DEC 旨意/NN 創作/VV 出來/VV 的/UH ./.
 其/PRP 散文/DEC 語言/NN 簡潔/. 凝練/'' ,/, 樸實無華/NN ,/, 體現/VV 了/AS 和/IN 西塞羅/VV 迥異/JJ 的/DEC 風格/NN ./.
-盧克萊修/NNP (/( 前/IN 99/CD 年/NNB -/HYPH 前/DT 55/CD 年/NNB )/) 生/VV 於/IN 共和/NN 國/SFN 末期/NN ,/, 唯一/JJ 的/DEC 傳世/NN 之/DEC 作/NN 《/( 物性/NNP 論/SFN 》/) (/( 一/CD 譯/NN 《/( 論/FW 自然/NN 》/) )/) 共/RB 六/CD 卷/NNB ,/, 每卷/VV 千餘/CD 行/NNB ,/, 是/VC 一/CD 部/NNB 哲理/NN 詩/SFN ./.
+盧克萊修/NNP (/( 前/IN 99/CD 年/NNB -/HYPH 前/DT 55/CD 年/NNB )/) 生/VV 於/IN 共和/NN 國/SFN 末期/NN ,/, 唯一/JJ 的/DEC 傳世/NN 之/DEC 作/NN 《/( 物性/NNP 論/SFN 》/) (/( 一/CD 譯/NN 《/( 論/SFN 自然/NN 》/) )/) 共/RB 六/CD 卷/NNB ,/, 每卷/VV 千餘/CD 行/NNB ,/, 是/VC 一/CD 部/NNB 哲理/NN 詩/SFN ./.
 維吉爾/NNP 在/IN 創作/NN 《/( 埃涅阿斯/NNP 紀/SFN 》/) 的/DEC 時候/NN 雖/IN 有意/VV 摹仿/NN 荷馬/. 史詩/'' ,/, 但/RB 全詩/VV 強調/VV 使命/NN 感/SFN 、/EC 責任/NN 感/SFN ,/, 洋溢/VV 著/AS 嚴肅/JJ 、/EC 哀婉/NN 和/CC 悲天憫人/NN 的/DEC 情調/NN ,/, 是/VC 典型/JJ 的/DEC 羅馬/NNP 風格/NN ./.
 水庫/NN 正常/JJ 庫容/NN 為/VC 1202萬/CD 立方米/NNB ,/, 集雨/NN 面積/NN 為/VC 46/CD 平方千米/NNB ,/, 海拔/NN 為/VC 26.5/CD 米/NNB ./.
 這樣/PRD ,/, 就/RB 可/MD 根據/IN 詞語/NN 的/DEC 詞性/NN 和/CC 詞語/NN 的/DEC 組合/NN 規律/. (/( 如/VV 語法/NN 關係/NN )/) 等/NN 來/RB 斷句/VV ./.
@@ -256,7 +256,7 @@
 電影/NN 主要/RB 呈現/VV 寫實/NN 風格/NN ,/, 其/PRP 題材/NN 貼近/DEC 現實/NN 社會/NN ,/, 回顧/NN 民眾/NN 的/DEC 真實/JJ 生活/NN ,/, 由於/IN 形式/NN 新穎/NN 、/EC 風格/NN 獨特/JJ ,/, 促成/VV 了/AS 台灣/NNP 電影/NN 的/DEC 新/PFA 風貌/NN ./.
 10/CD 月/NNB 25/CD 日/NNB 陳/NNP 儀/NN 代表/NN 同盟/NN 國/SFN 的/DEC 中華/NNP 民國/NN 政府/NN 接管/VV 臺灣/NNP ,/, 接受/VV 日本/NNP 帝國/NN 台灣/NNP 總督/NN 兼/CC 台灣/NNP 軍/SFN 司令/NN 官/SFN 安藤/DEC 利吉/NN 的/DEC 投降/VV ./.
 1945/CD 年/NNB 8/CD 月/NNB 14/CD 日/NNB ,/, 日本/NNP 天皇/NN 發表/VV 終戰/NN 詔書/NN ,/, 二戰/NN 結束/VV ./.
-樹/PRP 的/DEC 稀有/JJ 與/CC 其/PRP 緩慢/JJ 的/DEC 生長/NN 速度/NN 意味/VV 著/AS 合法/JJ 的/DEC 供應/NN 非常/RB 稀少/VV ./.
+樹/SFN 的/DEC 稀有/JJ 與/CC 其/PRP 緩慢/JJ 的/DEC 生長/NN 速度/NN 意味/VV 著/AS 合法/JJ 的/DEC 供應/NN 非常/RB 稀少/VV ./.
 第二/CD 條/NNB ,/, 台灣/NNP 獨立/NN 不是/VC 因為/IN 台灣/NNP 人/SFN 四百/CD 年/NNB 來/RB 受到/VV 外來/JJ 政權/NN 的/DEC 壓迫/NN ./.
 二/CD 次/NNB 大戰/NN 剛/RB 結束/VV 時/IN ,/, 臺灣/NNP 糖業/NN 鐵路/NN 年久失修/NN ,/, 且/RB 有/VV 鋼軌/CD 輕重/NNB 不一/JJ 、/EC 蒸汽/NN 機車/NN 大多/RB 逾齡/VV 等/NN 問題/NN ./.
 主持/VV 人/SFN 也/RB 會/MD 視/VV 情形/NN 開放/VV 現場/NN 觀眾/NN 參賽/VV ,/, 獲勝/NNP 者/SFN 同樣/RB 也/RB 有/VV 豐盛/NN 的/DEC 獎品/NN 或/CC 豐厚/JJ 的/DEC 獎金/NN ./.
@@ -355,7 +355,7 @@ Lucy/NN 在/IN 月光/NNP 石/SFN 上/IN 施咒/NN ,/, 交給/VV Katherine/NN ./
 辛亥/NNP 革命/NN 爆發/VV 後/IN ,/, 他/PRP 被/BB 蜀/NNP 軍/SFN 政府/NN 派到/. 上海/NNP 購買/VV 軍械/NN ,/, 並/RB 與/IN 各省/NN 都督/NN 府/SFN 代表/VV 聯合/VV 會/MD 代表/VV 在/IN 湖北/NNP 會議/NN ./.
 他/PRP 是/VC 北京/NNP 大學/NN 第一/CD 個/NNB 講/VV 歐洲/NNP 文學/NN 史/SFN 的/DEC 教授/NN ./.
 但/RB 可以/MD 舉/VV 一/CD 事/NN 爲/VC 例/NN ,/, 他/PRP 說/VV 他/PRP 喜歡/VV 涉覽/CD 筆記/NNB ,/, 中國/NNP 的/UH ,/, 他/PRP 幾乎/RB 都/RB 看/VV 過/AS ./.
-這/DT 情況/NN ,/, 輕/JJ 一些/JJ 說/VV 是/VC 他們/PRP 有/VV 了/AS 自己/PRD 的/DEC 獨有/VV 的/DEC 風格/NN ,/, 重/JJ 一些/JJ 說/VV 是/VC 別人/NN 辦/VV 不/SFA 了/UH ./.
+這/DT 情況/NN ,/, 輕/JJ 一些/JJ 說/VV 是/VC 他們/PRP 有/VV 了/AS 自己/PRD 的/DEC 獨有/VV 的/DEC 風格/NN ,/, 重/JJ 一些/JJ 說/VV 是/VC 別人/NN 辦/VV 不/RB 了/UH ./.
 從/IN 第二/CD 年/NNB 開始/VV ,/, 周/NNP 俊三/NN 漸轉/DEC 球隊/NN 輔助/NN 角色/NN ,/, 上場/NN 時間/NN 愈來愈/NN 少/JJ ./.
 民國/NN 6/CD 年/NNB (/( 1917/CD 年/NNB )/) ,/, 段/NNP 祺瑞/NNP 執政/VV ,/, 國會/NN 再度/RB 解散/VV ./.
 汪/NNP 精衛/NN 從/IN 重慶/NNP 脫出/NN 並/RB 受到/VV 日本/NNP 保護/NN 之/DEC 際/NN ,/, 周/NNP 化人/NN 歸國/VV 輔佐/NNP 汪/NNP ./.
@@ -364,7 +364,7 @@ Lucy/NN 在/IN 月光/NNP 石/SFN 上/IN 施咒/NN ,/, 交給/VV Katherine/NN ./
 西戎/NN 是/VC 對/IN 中國/NNP 古代/NN 西部/NN 部族/NN 的/DEC 統稱/NN ,/, 長期/NN 威脅/VV 西周/NNP 王朝/NN 的/DEC 西部/NN 邊境/NN ./.
 後來/NN ,/, 周/NNP 志仁/NN 隨/VV 護國/NNP 軍/SFN 赴/VV 四川/NNP ,/, 轉戰/NNP 瀘州/SFN 、/EC 敘府/NN ,/, 後/IN 在/VV 四川/NNP 戰死/VV ./.
 周/NNP 成建/SFN 是/VC 中國/NNP 的/DEC 著名/JJ 浙/NN 商/SFN 及/CC 企業/NN 家/SFN ,/, 2009/CD 年/NNB 以/IN 個人/PRD 資產/NN 達/VV 136億/CD 元/NNB 人民/NN 幣/SFN 上榜/RB 福布斯/VV 中國/NNP 富豪/NN 榜/SFN ./.
-晚年/NN 留居/. 北京/NNP ,/, 常/RB 與/IN 恩施/NNP 樊/NNP 增祥/NNP 、/EC 應山/NNP 左/NN 紹佐/NN 以/IN 詩文/NN 唱和/NN ,/, 號/NN 「/`` 楚中/NN 三/CD 老/. 」/'' ./.
+晚年/NN 留居/. 北京/NNP ,/, 常/RB 與/IN 恩施/NNP 樊/NNP 增祥/NNP 、/EC 應山/NNP 左/NN 紹佐/NN 以/IN 詩文/NN 唱和/NN ,/, 號/NN 「/`` 楚中/NN 三/CD 老/PFA 」/'' ./.
 最小/JJ 的/DEC 弟弟/NN 周/NNP 渝/NNP 繼承/VV 爸爸/NN 的/DEC 思想/NN ,/, 將/RB 紫藤/VV 廬/NN 經營/VV 成/VV 台北/NNP 市/SFN 獨具一格/NN 的/DEC 文化/NN 茶館/NN ,/, 成/VV 為/VC 台北/NNP 市/SFN 市/SFN 定/VV 古蹟/NN ./.
 有/VV 人/SFN 說/VV 這/PRD 是/VC 裴/NNP 世清/NN 見到/VV 的/DEC 秦/NNP 王國/NN ./.
 1912/CD 年/NNB ,/, 調任/RB 回/VV 浙江/NNP ,/, 出任/VV 浙江/NNP 省/SFN 高等/NN 審判/NN 廳/SFN 書記/NN 官長/NN ./.
@@ -494,7 +494,7 @@ Lucy/NN 在/IN 月光/NNP 石/SFN 上/IN 施咒/NN ,/, 交給/VV Katherine/NN ./
 博愛/NNP 校區/NN 的/DEC 校門/NN 目前/NN 有/VV 兩/CD 座/NNB -/HYPH 北/NN 大門/NN 、/EC 南/NN 大門/NN ,/, 其中/NN 北/NN 大門/NN 也/RB 為/VC 博愛/NN 校區/NN 的/DEC 主要/JJ 校門/NN ./.
 目前/NN 博愛/DEC 校區/NN 並/RB 無/VV 餐廳/NN 進駐/VV ,/, 僅/RB 有/VV 理髮/NNP 部/SFN 、/EC 外工/NNP 房/SFN ,/, 不過/RB 周遭/NN 有/VV 許多/CD 小吃/NN 店/SFN ,/, 提供/VV 學生/NN 飲食/NN 的/DEC 服務/NN ./.
 在/IN 這/DT 段/NNB 期間/NN 內/NN ,/, 有/VV 許多/CD 球員/NN 獲選/VV 加入/VV 國家/NN 青年/NN 代表/VV 隊/SFN ,/, 畢業/VV 後/IN 也/RB 陸續/RB 加入/VV 各/DT 甲組/NN 足球/NN 隊/SFN ,/, 成/VV 為/VC 國家/NN 代表/VV 隊/SFN 的/DEC 重要/JJ 來源/NN ./.
-屏東/NNP 農業/NN 學校/NN 與/CC 台北/NNP 帝國/NN 大學/NN (/( 台灣/NNP 大學/NN 前身/NN )/) 、/EC 師範/NN 學院/NN (/( 臺灣/NNP 師大/NN 前身/NN )/) 、/EC 臺中/NNP 農/NN 學院/NN (/( 中興/NN 大學/NN 前身/NN )/) 、/EC 臺南/NNP 工/SFN 學院/NN (/( 成功/JJ 大學/NN 前身/NN )/) ,/, 時/IN 為/VC 臺灣/NNP 五/CD 大/JJ 學府/.
+屏東/NNP 農業/NN 學校/NN 與/CC 台北/NNP 帝國/NN 大學/NN (/( 台灣/NNP 大學/NN 前身/NN )/) 、/EC 師範/NN 學院/NN (/( 臺灣/NNP 師大/NN 前身/NN )/) 、/EC 臺中/NNP 農/NN 學院/NN (/( 中興/NN 大學/NN 前身/NN )/) 、/EC 臺南/NNP 工/SFN 學院/NN (/( 成功/JJ 大學/NN 前身/NN )/) ,/, 時/IN 為/VC 臺灣/NNP 五/CD 大/PFA 學府/NNP
 一/CD 樓/NN 為/VC 供/VV 學生/NN 自習/NN 的/DEC K/FW 書/SFN 中心/NN ,/, 二/CD 樓/NN 為/VC 期刊/NN 閱覽/NN 室/SFN ,/, 有/VV 數/CD 部/NNB 可/MD 上網/VV 的/DEC 電腦/NN 供/VV 師生/NN 查閱/NN 、/EC 列印/NNP 資料/NN ,/, 並/RB 設有/VV 咖啡/NN 機/SFN ,/, 三/CD 樓/NN 為/VC 普通/JJ 閱覽/NN 室/SFN ,/, 四/CD 樓/NN 為/VC 鄰近/JJ 音樂/NN 教室/NN 的/DEC 「/`` 紅土/NN 藝術/NN 空間/NN 」/'' 與/CC 美術/NN 教室/NN ,/, 五/CD 樓/NN 為/VC 演藝/NN 廳/SFN ./.
 1955/CD 年/NNB 國/NN 立/VV 清華/NNP 大學/NN 於/IN 新竹/NNP 復校/NN ,/, 1965/CD 年/NNB 恢復/VV 物理/NN 系/SFN 大學/NN 部/SFN ./.
 但/RB 在/VV 規劃/VV 過程/NN 中/IN ,/, 是否/VC 能/MD 有/VV 足夠/JJ 的/DEC 討論/NN 時間/NN 與/CC 效率/NN ,/, 一直/RB 飽受/VV 爭議/NN ./.

@@ -5,7 +5,7 @@ def getFileContents(filename):
 	return data
 
 def computeAccuracy():
-	dev_tagged_data = getFileContents('data/zh_dev_tagged.txt')
+	dev_tagged_data = getFileContents('data/en_dev_tagged.txt')
 	predicted_data = getFileContents('hmmoutput.txt')
 	correct = 0
 	total = 0
