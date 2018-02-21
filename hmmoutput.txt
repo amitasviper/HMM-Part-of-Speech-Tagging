@@ -18,9 +18,9 @@
 日本/NNP FC/FW 平台/NN 的/DEC 前/DT 兩/CD 作/VV 通過/VV 密碼/NN 記憶/NN 系統/NN 記錄/NN 進度/NN ./.
 由於/IN 這次/CD 失事/NNB 原因/NN 涉及/VV 很多/CD 敏感/JJ 的/DEC 爭議/NN 性/SFN ,/, 因/IN 此/DT 最後/NN 仍/RB 未/RB 有/VV 一/CD 個/NNB 具體/JJ 及/CC 統一/JJ 的/DEC 事故/NN 調查/NN 報告/NN ./.
 年/NN 復/VV 一/CD 年/NNB ,/, 無論/IN 颳風/CD 下雨/NNB ,/, 不顧/VV 警察/NN 和/CC 暴徒/NN 騷擾/VV ,/, 白衣/NN 女士/NN 們/SFN 堅持/VV 著/AS 她們/PRP 無聲/VV 的/DEC 周日/NN 步行/VV ,/, 抗議/VV 關押/NNP 古巴/NNP 的/DEC 所有/DT 良心/NN 犯/SFN ./.
-一/CD 個/NNB 家庭/NN 收入/NN 的/DEC 中間/NN 數/SFN 為/NNP $/SLASH 16,250/NNP ,/, 家庭/NN 收入/NN 的/DEC 中間/NN 數/SFN 為/NNP $/SLASH 16,250/NNP ,/, 國民/NN 平均/JJ 收入/NN 為/NNP $/SLASH 5,467/NNP ./.
+一/CD 個/NNB 家庭/NN 收入/NN 的/DEC 中間/NN 數/SFN 為/NNP $/SLASH 16,250/CD ,/, 家庭/NN 收入/NN 的/DEC 中間/NN 數/SFN 為/NNP $/SLASH 16,250/CD ,/, 國民/NN 平均/JJ 收入/NN 為/NNP $/SLASH 5,467/CD ./.
 勞特塔瓦爾/NNP 湖/SFN 是/VC 印度尼西亞/NNP 的/DEC 湖泊/NN ,/, 位/VV 於/VV 蘇門答臘/NNP 島/SFN 北部/NN ,/, 由/VV 亞齊/VV 特別/JJ 行政/NN 區/SFN 負責/VV 管轄/VV ,/, 長/JJ 17/CD 公里/NNB 、/EC 寬/JJ 3/CD 公里/NNB ,/, 面積/NN 70/CD 平方公里/NNB ,/, 海拔/NN 高度/NN 1,100/CD 米/NNB ,/, 最大/JJ 水深/NN 80/CD 米/NNB ,/, 蓄水/VV 量/SFN 25億/CD 立方米/NNB ./.
-總/PFA 面積/NN 24.44/CD 平方公里/NNB ,/, 人口/NN 3108/DEC 人/NN ,/, 人口/NN 密度/NN 127.2/DEC 人/NN //SLASH 平方公里/NNB (/( 2009/CD 年/NNB )/) ./.
+總/PFA 面積/NN 24.44/CD 平方公里/NNB ,/, 人口/NN 3108/CD 人/NN ,/, 人口/NN 密度/NN 127.2/CD 人/NN //SLASH 平方公里/NNB (/( 2009/CD 年/NNB )/) ./.
 包/NNP 白/NNP 鐵路/NN 全線/NN 共/RB 設有/VV 車站/NN 19/CD 座/NNB ./.
 包/NNP 盈盈/NNP 所/RB 在/VV 的/DEC 第三/CD 區/SFN ,/, 有/VV 衛冕/VV 冠軍/NN 、/EC 6/CD 號/NN 種子/NN 瑪麗埃爾/NNP ·/SLASH 扎格尼斯/NNP ./.
 由於/IN 包浩斯/NN 學校/NN 對於/IN 現代/NN 建築/NN 學/SFN 的/DEC 深遠/JJ 影響/NN ,/, 今日/NN 的/DEC 包浩斯/NN 早/RB 已/RB 不單/VV 是/VC 指/VV 學校/NN ,/, 而是/RB 其/PRP 倡導/VV 的/DEC 建築/NN 流派/NN 或/CC 風格/NN 的/DEC 統稱/NN ,/, 注重/VV 建築/NN 造型/NN 與/CC 實用/JJ 機能/NN 合而為一/NN ./.
@@ -39,7 +39,7 @@
 支線/NN 從/IN 朝陽/NNP 門/SFN 到/VV 楊閘/NN 環島/NN 後/IN 繼續/VV 向/IN 東/NN 行駛/VV ,/, 上/IN 京/NNP 哈/NNP 高速/RB 後/IN 到達/VV 通州/NNP 武夷/NN 花園/NN 小區/NN ./.
 車站/NN 裝有/VV 屏蔽/NNP 門/SFN ,/, 採用/VV 與/IN 軌道/NN 交通/NN 類似/JJ 的/DEC 管理/NN 方法/NN ,/, 但/RB 2/CD 號/NN 線/SFN 並/RB 沒有/VV 全線/NN 的/DEC 專用/JJ 路權/NN ./.
 1978/CD 年/NNB ,/, 學院/NN 恢復/VV 了/AS 本科/NN 生/SFN 招生/NN ,/, 該屆/NN 學生/NN 在/IN 1982/CD 年/NNB 成/VV 為/VC 北京/NNP 電影/NN 學院/NN 首批/CD 被/BB 授予/VV 學士/NN 學位/NN 的/DEC 畢業/VV 生/SFN ,/, 在/IN 這/PRD 以後/IN 的/DEC 三十多/CD 年/NNB 所/RB 培養/VV 的/DEC 各個/DT 專業/JJ 的/DEC 眾多/JJ 學生/NN ,/, 成/VV 為/VC 了/AS 中國/NNP 乃至/NN 世界/NN 著名/JJ 的/DEC 電影/NN 人/NN ,/, 為/VC 中國/NNP 電影/NN 在/IN 全/DT 世界/NN 的/DEC 影響/NN 做出/VV 了/AS 重要/JJ 的/DEC 貢獻/NN ./.
-2009/CD 年/NNB 報考/NN 人數/NN 達/VV 1.3萬餘/NN 人次/NN ,/, 計劃/NN 招生/NN 只有/VV 440/NNP 人/SFN ,/, 淘汰/VV 率/SFN 超過/VV 96%/CD ./.
+2009/CD 年/NNB 報考/NN 人數/NN 達/VV 1.3萬餘/NN 人次/NN ,/, 計劃/NN 招生/NN 只有/VV 440/CD 人/NN ,/, 淘汰/VV 率/SFN 超過/VV 96%/CD ./.
 北京/NNP 站/SFN 是/VC 當時/NN 中國/NNP 大陸/NN 規模/NN 最大/JJ 、/EC 設備/NN 最/RB 先進/JJ 的/DEC 鐵路/NN 車站/NN ,/, 也是/VC 第一/CD 個/NNB 現代/NN 化/SFN 大型/NN 鐵路/NN 客運/NN 站/SFN ./.
 為了/IN 改善/VV 中央/NN 空檔/NN 的/DEC 視覺/NN 效果/NN ,/, 故/RB 借鑒/VV 中國/NNP 傳統/NN 城門/NN 樓/SFN 的/DEC 設計/NN ,/, 設計/VV 成/VV 一/CD 個/NNB 寬/JJ 45/CD 米/NNB 、/EC 高/PFA 50/CD 米/NNB 的/DEC 「/`` 門洞/NN 」/'' ./.
 他/PRP 每天/DT 趕/VV 著/AS 馬車/NN 到/VV 災區/, 逐村/RB 收養/VV 災童/NN ,/, 總/PFA 人數/NN 近/RB 800/CD 名/NNB ./.
@@ -51,14 +51,14 @@
 北極/CD 土著/NNB 民族/NN 一直/RB 與/IN 外界/NN 接觸/VV 甚少/JJ ,/, 直到/IN 現代/NN ,/, 與/IN 其他/DT 地區/NN 的/DEC 交流/NN 才/RB 開始/VV 變/VV 得/DEV 頻繁/JJ ./.
 為了/IN 避免/VV 此等/NN 事故/NN 發生/VV ,/, 飛機/NN 的/DEC 所有/DT 裝置/NN ,/, 包括/VV 發動/VV 機/SFN 、/EC 輔助/NN 動力/NN 裝置/NN 、/EC 電力/NN 、/EC 液壓/NN 系統/NN 等/NN ,/, 都/RB 需要/MD 更為/RB 嚴格/JJ 的/DEC 防護/NN 性/SFN 維修/NN ./.
 由於/IN 北極/NN 地區/NN 的/DEC 盛行/JJ 西風/DEC 一般/JJ 強度/NN 較弱/NN ,/, 再/RB 加上/VV 北極/NN 航線/NN 更/RB 接近/VV 大圓/NN 航線/NN 、/EC 航程/NN 較短/NN ,/, 因/IN 此/PRD ,/, 越來越/RB 多/RB 往西/VV 飛/NNP (/( 例如/VV 從/IN 紐約/NNP 到/VV 香港/NNP )/) 的/DEC 航班/NN ,/, 都/RB 會/MD 取道/VV 北極/NN 航線/NN ,/, 節省/VV 時間/NN 之/DEC 餘/NN ,/, 還/RB 可以/MD 節省/VV 燃料/NN ,/, 並/RB 增加/VV 有效/JJ 負載/NN ./.
-五/CD 歲/NNB 後/IN ,/, 雌性/NN 約/RB 2.5/CD 米/NNB 長/JJ ,/, 300/CD 公斤/NNB ,/, 成長/VV 速度/NN 減慢/NN 很多/JJ ,/, 但/RB 雄性/NN 可能/MD 到/VV 五/CD 到/CC 八/CD 歲/NNB 性/SFA 發育/NN 完全/RB 之後/IN 才/RB 停止/VV 成長/VV ,/, 到/VV 那/DT 時/NNB 長到/CD 3.33/NNB m/, 左右/IN ,/, 而且/RB 胸/VV ,/, 頸/NN 和/CC 上身/NN 寬大/NN ,/, 重量/NN 達到/VV 600/CD -/HYPH 1100/CD 公斤/NNB ./.
+五/CD 歲/NNB 後/IN ,/, 雌性/NN 約/RB 2.5/CD 米/NNB 長/JJ ,/, 300/CD 公斤/NNB ,/, 成長/VV 速度/NN 減慢/NN 很多/JJ ,/, 但/RB 雄性/NN 可能/MD 到/VV 五/CD 到/CC 八/CD 歲/NNB 性/SFA 發育/NN 完全/RB 之後/IN 才/RB 停止/VV 成長/VV ,/, 到/VV 那/DT 時/NNB 長到/VV 3.33/CD m/NNB 左右/IN ,/, 而且/RB 胸/VV ,/, 頸/NN 和/CC 上身/NN 寬大/NN ,/, 重量/NN 達到/VV 600/CD -/HYPH 1100/CD 公斤/NNB ./.
 位/VV 於/IN 校園/NN 北區/NN 的/DEC 重要/JJ 文化/NN 遺產/NN 札幌/NNP 農/NN 學校/NN 第二/CD 農場/NN ,/, 是/VC 根據/IN 克拉克/NNP 博士/NN 的/DEC 構想/NN 而/RB 建立/VV 的/DEC 模範/CD 家畜/NNB 飼育/CD 場/NNB ,/, 多/RB 為/VC 明治/NNP 時期/NN 的/DEC 建築/NN 物/SFN ./.
 市內/NN 後來/NN 也/RB 鋪設/VV 了/AS 有軌/NN 電車/NN 系統/NN ,/, 地段/RB 亦/RB 被/BB 投機/VV 者/SFN 所/RB 覬覦/VV ./.
 天津/NNP 河北/NNP 體育/NN 場/SFN 建成/VV 後/IN 佔地/VV 面積/NN 為/VC 20萬/CD 平方米/NNB 、/EC 建築/NN 面積/NN 為/VC 4.5萬/CD 平方米/NNB ,/, 體育/NN 場/SFN 的/DEC 看台/NN 設有/VV 18/CD 級/NN 台階/NN ,/, 為/VC 馬蹄/NNP 形/SFN 的/DEC 水泥/NN 鋼筋/DEC 建築/NN ./.
 此後/NN ,/, 第18/CD 屆/NNB 華/NNP 北/NN 運動/NN 會/SFN 籌備/NN 委員/NN 會/MD 利用/VV 天津/NNP 市/SFN 政府/NN 的/DEC 26萬/CD 元/NNB 撥款/NN 和/CC 河北/NNP 省/SFN 政府/NN 的/DEC 20萬/CD 元/NNB 撥款/, 興建/VV 北站/NN 體育/NN 場/SFN ,/, 其餘/DT 款項/NN 用/VV 於/IN 招待/NN 運動/NN 員/SFN 和/CC 華/NNP 北/NN 運動/NN 會/MD 工作/VV 人員/NN ./.
 直至/IN 2002/CD 年/NNB 8/CD 月/NNB ,/, 將軍/NNP 澳/NNP 綫/SFN 全綫/RB 通車/VV ,/, 本站/NN 變/VV 為/VC 港島/NNP 綫/SFN 及/CC 將軍/NN 澳/NNP 綫/SFN 的/DEC 轉車/VV 站/SFN ./.
 於是/RB 李朝/VV 政府/NN 採取/VV 措施/NN :/: 一/CD 方面/NN 加強/VV 朝鮮/NNP 半/PFA 島/NN 東北/NN 面/SFN 的/DEC 防務/NN ;/: 一/CD 方面/NN 對/IN 圖們/NNP 江/SFN 南北/NN 女真/NNP 施加/NN 壓力/NN ,/, 給/VV 以/IN 絕市/NN 的/DEC 制裁/NN ./.
-北/NN 黃土/NN 溝/SFN 站/SFN 是/VC 一/CD 個/NNB 大準/NN 線/SFN 上/IN 的/DEC 鐵路/NN 車站/NN ,/, 位/VV 於/VV 內/IN 蒙古/NNP 自治/VV 區/SFN 豐鎮/NN 市/SFN 新城/NNP 灣/SFN 鄉/SFN 北/NN 黃土/NN 溝/SFN ,/, 建/VV 於/IN 1996/CD 年/NNB ,/, 目前/NN 為/VC 四/CD 等/NN 站/SFN ,/, 郵政/NN 編碼/NN 為/VC 012105/NN ./.
+北/NN 黃土/NN 溝/SFN 站/SFN 是/VC 一/CD 個/NNB 大準/NN 線/SFN 上/IN 的/DEC 鐵路/NN 車站/NN ,/, 位/VV 於/VV 內/IN 蒙古/NNP 自治/VV 區/SFN 豐鎮/NN 市/SFN 新城/NNP 灣/SFN 鄉/SFN 北/NN 黃土/NN 溝/SFN ,/, 建/VV 於/IN 1996/CD 年/NNB ,/, 目前/NN 為/VC 四/CD 等/NN 站/SFN ,/, 郵政/NN 編碼/NN 為/VC 012105/CD ./.
 鑒/NNP 於/IN 此/DT 業務/NN 模式/NN 取得/VV 空前/JJ 成功/JJ ,/, 雙/CD 方/NNB 擴充/VV 娛樂/NNP 場/SFN 業務/NN 至/CC 佔據/VV 新建業/NN 商業/NN 中心/NN 五/CD 層/NNB 空間/NN ,/, 集團/NN 與/CC 澳博/NN 的/DEC 合作/NN 亦/RB 因而/RB 更趨/VV 緊密/JJ ./.
 只/RB 是/VC 在/IN 紐約/NNP 州/SFN ,/, 就/RB 有/VV 500多/CD 所/NNB 學校/NN 將/BB 匹克/VV 球/SFN 設/VV 為/VC 課程/NN ./.
 區位/NNP 論/SFN 要/MD 解決/VV 的/DEC 是/VC 經濟/NN 活動/NN 的/DEC 地理/NN 方位/NN 及/CC 其/PRP 形成/VV 原因/NN 的/DEC 問題/NN ./.
@@ -86,7 +86,7 @@
 1923/CD 年/NNB ,/, 威廉/NNP ·/SLASH 萊昂/NNP ·/SLASH 麥肯齊/NNP ·/SLASH 金/NNP 的/DEC 聯邦/NN 自由/NN 黨/SFN 政府/NN ,/, 通過/IN 1923/CD 年/NNB 華/NNP 人/SFN 移民/VV 法案/NN ,/, 完全/RB 禁止/VV 了/AS 華/NNP 人/SFN 移民/NN ./.
 由於/IN 加拿大/NNP 在/IN 二戰/NN 後/IN 簽署/VV 了/AS 聯合/VV 國/SFN 世界/NN 人權/NN 宣言/NN ,/, 加拿大/NNP 政府/NN 必須/MD 廢除/VV 與/IN 宣言/NN 牴觸/NN 的/DEC 排/VV 華/NNP 法案/NN ./.
 這些/DT 人/NN 主要/RB 居住/VV 在/IN 維多利亞/NNP 、/EC 溫哥華/NNP 、/EC 蒙特利爾/NNP 和/CC 多倫多/NNP ./.
-2003/CD 年/NNB 11/CD 月/NNB 15/CD 日/NNB ,/, 法航/RB 協和/VV 飛機/NN 的/DEC 一/CD 批/NNB 剩餘/NN 零部件/NN 和/CC 紀念/NN 品/SFN 在/IN 巴黎/NNP 佳士得/NN 拍賣/VV 行/SFN 公開/RB 拍賣/VV ,/, 有/VV 約/RB 13,000/VV 人/SFN 到場/DEC 競投/NN ,/, 共/RB 拍賣/VV 得/DEV 320萬/VV 歐/NNP 元/SFN ,/, 部分/NN 拍賣/VV 品/SFN 的/DEC 成交/NN 價/SFN 遠超/DEC 預期/NN ./.
+2003/CD 年/NNB 11/CD 月/NNB 15/CD 日/NNB ,/, 法航/RB 協和/VV 飛機/NN 的/DEC 一/CD 批/NNB 剩餘/NN 零部件/NN 和/CC 紀念/NN 品/SFN 在/IN 巴黎/NNP 佳士得/NN 拍賣/VV 行/SFN 公開/RB 拍賣/VV ,/, 有/VV 約/RB 13,000/CD 人/NN 到場/. 競投/'' ,/, 共/RB 拍賣/VV 得/VV 320萬/CD 歐/NNP 元/SFN ,/, 部分/NN 拍賣/VV 品/SFN 的/DEC 成交/NN 價/SFN 遠超/DEC 預期/NN ./.
 拍賣/VV 的/DEC 物品/NN 包括/VV 原來/RB 存放/VV 在/IN 圖盧茲/NNP 市/SFN 歐洲/NNP 航天/NN 航空/NN 防務/DEC 集團/NN 工廠/NN 倉庫/NN 內/NN 的/DEC 超過/VV 1000/CD 件/NNB 客機/NN 零部件/NN 和/CC 機艙/NN 內/NN 裝飾/NN 物品/NN ,/, 其中/NN 包括/VV 起價/NN 為/VC 600/CD 歐/NNP 元/SFN 的/DEC 乘客/NN 座椅/NN 、/EC 300/CD 歐/NNP 元/SFN 的/DEC 應急/NN 氧氣/NN 罩/NN 、/EC 許多/CD 銀質/NNB 和/CC 陶瓷/NN 餐具/NN 以及/CC 其他/DT 飛機/NN 零件/NN ,/, 甚至/RB 包括/VV 一/CD 個/NNB 起落/VV 架/SFN ,/, 並且/RB 這些/DT 拍賣/VV 物品/NN 都是/VC 從來/RB 沒有/VV 被/BB 旅客/NN 使用/VV 過/VV 的/UH ./.
 自/IN 此/PRD 卓/DEC 義峰/NN 便/RB 擁有/VV 「/`` 丐幫/NN 幫主/NN 」/'' 的/DEC 外號/NN ./.
 雖則/NNP 日/NNP 語/SFN 存在/VV 「/`` 二/CD 段/NNB 音階/. 」/'' 的/DEC 變化/NN ,/, 但/RB 只/RB 憑/IN 這/DT 二/CD 音/SFN 變化/NN ,/, 也/RB 沒有/VV 協音/NN 的/DEC 可能/NN ./.
@@ -138,7 +138,7 @@
 另外/RB ,/, 羅馬/NNP 教廷/NN 於/IN 1844/CD 年/NNB 在/IN 靳崗/NN 設立/VV 的/DEC 天主/NNP 教/SFN 南陽/NNP 教區/NN ,/, 曾/RB 長期/NN 掌管/. 河南/NNP 全省/NN 的/DEC 教務/NN ,/, 法國/NNP 人/SFN 安巴都/NN 為/VC 首任/CD 主教/NN ,/, 現/NN 存有/VV 靳崗/NNP 天主/NNP 教/SFN 堂/SFN ./.
 希比拉/RB 任命/VV 托爾托薩/NN 主教/NN 巴塞洛繆/NN 為/VC 市政/NN 官/SFN ./.
 2011/CD 年/NNB 10/CD 月/NNB ,/, 公司/NN 決定/VV 退出/VV 出口/NN 市場/NN ,/, 為/VC 減少/VV 50%/CD 的/DEC 產能/NN ,/, 工廠/NN 關閉/VV 了/AS 位/VV 於/VV 肯布蘭/AS 兩/CD 個/NNB 高爐/NN 之/DEC 一/CD 的/DEC 第6/CD 號/NN 高爐/NN ./.
-總/PFA 面積/NN 55/CD 平方公里/NNB ,/, 人口/NN 2388/DEC 人/NN ,/, 人口/NN 密度/NN 43.4/DEC 人/NN //SLASH 平方公里/NNB (/( 2009/CD 年/NNB )/) ./.
+總/PFA 面積/NN 55/CD 平方公里/NNB ,/, 人口/NN 2388/CD 人/NN ,/, 人口/NN 密度/NN 43.4/CD 人/NN //SLASH 平方公里/NNB (/( 2009/CD 年/NNB )/) ./.
 交戰/NN 後/IN ,/, 一切/DT 如/VV 諸葛/NNP 亮/NNP 所/RB 安排/VV 般/JJ 發生/VV ./.
 博杰普爾/NNP 語/SFN 也/RB 在/IN 蓋亞那/NN 、/EC 蘇利南/NNP 、/EC 斐濟/NNP 、/EC 特立尼達/NN 和/CC 多巴哥/NN 、/EC 模里西斯/NNP 使用/VV ,/, 可以/MD 說成/VV 在/IN 世界/NN 多/CD 個/NNB 州份/, 均/RB 有/VV 人/SFN 使用/VV ./.
 1400/CD 年/NNB 的/DEC 慶典/NN 吸引/VV 了/AS 許多/CD 法國/NNP 人/SFN ./.
@@ -147,7 +147,7 @@
 施米特/NN 於/IN 1888/CD 年/NNB 生/VV 於/IN 威斯特伐里亞/NN 普勒騰貝格/NN 的/DEC 一/CD 個/NNB 天主/NNP 教/SFN 家庭/NN ./.
 理察/NN 在/IN 小/PFA 時候/NN 就/RB 對/IN 音樂/NN 很/RB 有/VV 興趣/NN ,/, 並且/RB 被/BB 培養/VV 為/VC 鋼琴/NN 奇才/NN ./.
 他/PRP 的/DEC 統治/NN 時間/NN 是/VC 從/IN 約/RB 1388/CD 年/NNB 至/CC 1420/CD 年/NNB ,/, 其中/NN 從/IN 1400/CD 年/NNB 至/CC 1405/CD 年/NNB 他/PRP 的/DEC 統治/NN 被/BB 帖木兒/VV 帝國/NN 中斷/VV ./.
-蘇聯/NNP 本來/RB 曾/RB 想/MD 再/RB 分設/VV 一/CD 種/NNB 1134A/NN 和/CC 一/CD 種/NNB 1134B/, 反潛/NNP 艦/SFN ,/, 也/RB 曾/RB 想/MD 將/BB 反潛/VV 的/DEC 任務/NN 都/RB 交給/VV 1124/NNP 型/SFN 小型/NN 反潛/NN 艦/SFN ,/, 但是/RB 發現/VV 小型/NN 艦/SFN 適應/VV 不/RB 了/AS 遠海/NN 任務/NN 於是/RB 還是/RB 發展/VV 了/AS 大型/JJ 反潛/NN 艦/SFN ./.
+蘇聯/NNP 本來/RB 曾/RB 想/MD 再/RB 分設/VV 一/CD 種/NNB 1134A/CD 和/CC 一/CD 種/NNB 1134B/CD 反潛/NN 艦/SFN ,/, 也/RB 曾/RB 想/MD 將/BB 反潛/VV 的/DEC 任務/NN 都/RB 交給/VV 1124/CD 型/NN 小型/NN 反潛/NN 艦/SFN ,/, 但是/RB 發現/VV 小型/NN 艦/SFN 適應/VV 不/RB 了/AS 遠海/NN 任務/NN 於是/RB 還是/RB 發展/VV 了/AS 大型/JJ 反潛/NN 艦/SFN ./.
 卡拉/NNP 膠/NNP 是/VC 食品/NN 添加/VV 劑/SFN 的/DEC 一/CD 種/NNB ./.
 他/PRP 生/VV 於/IN 第三/CD 紀元/NN 1259/CD 年/NNB ,/, 戰死/VV 於/IN 1447/CD 年/NNB ,/, 享年/VV 188/CD 歲/NNB ./.
 卡斯科奎姆/NNP 河/SFN (/( Kuskokwim/FW River/FW )/) 是/VC 美國/NNP 阿拉斯加/NNP 州/SFN 南部/NN 的/DEC 一/CD 條/NNB 河流/NN ./.
@@ -184,11 +184,11 @@
 原駝/NN 是/VC 南/NN 美/NNP 洲/SFN 最大/JJ 的/DEC 野生/JJ 哺乳/NN 動物/NN 之/DEC 一/CD ./.
 牠們/PRP 只/RB 會/MD 從/IN 仙人掌/NN 中/IN 吸取/NN 養份/NN ./.
 這/DT 五/CD 篇/NNB 散文/NN 與/CC 在/VV 北京/NNP 創作/VV 的/DEC 另/DT 五/CD 篇/NNB 散文/, 就/RB 構成/VV 了/AS 《/( 朝花/FW 夕拾/FW 》/) 的/DEC 全部/RB ./,
-2011/CD 年/NNB 廈門/NNP 高崎/NN 國際/NN 機場/NN 年/NN 旅客/NN 吞吐/NN 量/SFN 突破/VV 1575萬/NN 人次/NN ,/, 列/VV 世界/NN 百/CD 強/PFA 機場/NN 第93/NN 位/VV ;/: 旅客/NN 吞吐/NN 量/SFN 列/VV 國內/NN 民航/NN 機場/NN 第11/CD 位/NNB ,/, 貨郵/RB 吞吐/VV 量/SFN 列/VV 國內/NN 民航/NN 機場/NN 第9/CD 位/NNB ./.
+2011/CD 年/NNB 廈門/NNP 高崎/NN 國際/NN 機場/NN 年/NN 旅客/NN 吞吐/NN 量/SFN 突破/VV 1575萬/CD 人次/NN ,/, 列/VV 世界/NN 百/CD 強/PFA 機場/NN 第93/NN 位/VV ;/: 旅客/NN 吞吐/NN 量/SFN 列/VV 國內/NN 民航/NN 機場/NN 第11/CD 位/NNB ,/, 貨郵/RB 吞吐/VV 量/SFN 列/VV 國內/NN 民航/NN 機場/NN 第9/CD 位/NNB ./.
 世界/NN 三/CD 大/PFA 觀賞/VV 樹/SFN 廈門/NNP 園林/NN 植物/NN 園/SFN 種植/NN 有/VV 世界/NN 三/CD 大/PFA 觀賞/VV 樹/SFN :/: 中國金錢松/NN ,/, 日本金松/NN ,/, 日本南洋杉/NN
 廈門/NNP 港/SFN 是/VC 中國/NNP 沿海/NN 主要/JJ 港口/NN 之/DEC 一/CD ,/, 是/VC 中國/NNP 綜合/NN 運輸/NN 體系/NN 的/DEC 重要/JJ 樞紐/NN 、/EC 集裝/NNP 箱/SFN 運輸/NN 幹線/NN 港/SFN 、/EC 東南/NN 沿海/JJ 的/DEC 區域/NN 性/SFN 樞紐/NN 港口/NN 、/EC 對/IN 台/NNP 航運/NN 主要/RB 口岸/VV ./.
 此外/NN ,/, 本人/PRD 十分/RB 善長/VV 遊戲/NN ,/, 因/IN 此/DT 作品/NN 中/IN 常/RB 見到/VV 這樣/PRD 的/DEC 題材/NN ./.
-1994/CD 年/NNB 3/CD 月/NNB 13/CD 日/NNB ,/, 612/NN 與/CC 722/NNP 線/SFN 合併/VV 成/VV 720/NNP 線/SFN (/( 友愛/FW 至/CC 天瑞/FW )/) ,/, 自/IN 此/DT 720/NN 及/CC 506/NNP 線/SFN 同時/NN 以/IN 本站/NN 為/VC 終點/NN 站/SFN ./.
+1994/CD 年/NNB 3/CD 月/NNB 13/CD 日/NNB ,/, 612/CD 與/CC 722/CD 線/NN 合併/VV 成/VV 720/CD 線/NN (/( 友愛/FW 至/CC 天瑞/FW )/) ,/, 自/IN 此/DT 720/CD 及/CC 506/CD 線/NN 同時/NN 以/IN 本站/NN 為/VC 終點/NN 站/SFN ./.
 目前/NN ,/, 友邦/NNP 保險/NN 在/IN 中國/NNP 大陸/NN 的/DEC 業務/NN 範圍/NN 已經/RB 擴展/VV 到/VV 北京/NNP 市/SFN 、/EC 廣東/NNP 省/SFN 、/EC 江蘇/NNP 省/SFN 、/EC 深圳/NNP 市/SFN ./.
 雙井/NNP 站/SFN 位/VV 於/VV 北京/NNP 市/SFN 朝陽/NNP 區/SFN ,/, 是/VC 北京/NNP 地鐵/NN 10/CD 號/NN 線/SFN 和/CC 在建/NN 的/DEC 7/CD 號/NN 線/SFN 的/DEC 一/CD 個/NNB 換乘/VV 車站/NN ./.
 現存/NN 的/DEC 雙吉/NN 寺/SFN 建築/NN 為/VC 明朝/NNP 建築/NN ,/, 整體/NN 坐北/. 朝南/'' ./.
@@ -210,7 +210,7 @@
 十九/CD 世紀/NNB 的/DEC 自由/NN 思想/NN 家/SFN 們/SFN 指出/VV ,/, 在/IN 教育/NN 範疇/NN 內/NN 的/DEC 過多/JJ 的/DEC 國家/NN 干預/VV 是/VC 有/VV 危險/JJ 的/UH ,/, 這些/DT 危險/NN 體現/VV 在/IN 依靠/VV 國家/NN 干預/NN 來/RB 削弱/VV 教會/NN 的/DEC 控制/NN 以及/CC 從/IN 家長/NN 手中/NN 奪回/NN 對/IN 其/PRP 子女/NN 的/DEC 教育/NN 權/SFN ./.
 按照/IN 傳統/NN ,/, 家長/NN 承擔/VV 著/AS 對/IN 其/PRP 子女/NN 進行/VV 教育/NN 的/DEC 責任/NN ,/, 然而/RB 考慮/VV 到/VV 教育/NN 系統/NN 的/DEC 風險/NN ,/, 家長/NN 在/IN 這/DT 其中/NN 的/DEC 角色/NN 被/BB 削弱/VV 了/UH ./.
 在/IN 指令/NN 式/SFN 編程/NN 語言/NN 中/IN ,/, 同樣/JJ 的/DEC 行為/NN 用/VV 常量/JJ 來/RB 表達/VV ,/, 它/PRP 和/CC 通常/JJ 的/DEC 變數/NN 存在/VV 反差/NN ./.
-5/CD 月/NNB 26/CD 日/NNB ,/, 敘利亞/NNP 自由/NNP 軍/SFN 在/IN 107/NNP 處/SFN 作戰/NN ./.
+5/CD 月/NNB 26/CD 日/NNB ,/, 敘利亞/NNP 自由/NNP 軍/SFN 在/IN 107/CD 處/NN 作戰/NN ./.
 嬰兒/NN 和/CC 兒童/NN 的/DEC 發育/NN 遵循/NN 一定/JJ 的/DEC 規律/NN ./.
 顧名思義/NN ,/, 發育/VV 性/SFN 口吃/NN 是/VC 一/CD 種/NNB 發育/VV 性/SFN 的/DEC 疾病/NN ./.
 10/CD 月/NNB 15/CD 日/NNB ,/, 解放/VV 軍/SFN 渡海/RB 發動/VV 廈門/NNP 戰役/NN ,/, 先/RB 佯攻/VV 鼓浪/CD 嶼/NNB ,/, 成功/RB 吸引/VV 國軍/NN 注意/NN 力/SFN ,/, 造成/VV 國軍/NN 判斷/VV 失誤/VV ./.
@@ -226,7 +226,7 @@
 他/PRP 會/MD 用/VV 極細/NN 的/DEC 線條/NN 編織/NN 出/VV 物象/NN 的/DEC 表面/NN 和/CC 體塊/NN ,/, 以/IN 線條/NN 的/DEC 疏密/NN 來/RB 表現/VV 物體/NN 的/DEC 明暗/NN ./.
 其/PRP 作品/NN 也/RB 成/VV 為/VC 音樂/NN 會/MD 上/IN 常見/JJ 的/DEC 曲目/NN ,/, 在/IN 歐洲/NNP 甚至/RB 產生/VV 了/AS 過熱/JJ 的/DEC 現象/NN ./.
 自/IN 1960/CD 年/NNB 起/IN ,/, 馬勒/RB 成/VV 為/VC 了/AS 最常/RB 被/BB 錄音/VV 的/DEC 作曲/VV 家/SFN 之/DEC 一/CD ,/, 多/RB 位/VV 指揮/VV 家/SFN 錄製/VV 其/PRP 交響/VV 曲/SFN 全集/NN ./.
-全鎮/NN 轄域/DEC 總/PFA 面積/NN 154.2/CD 平方公里/NNB ,/, 總/PFA 人口/NN 35,190/NN 人/SFN (/( 2000/CD 年/NNB 人口/NN 普查/NN )/) ,/, 下轄/VV 10/CD 個/NNB 行政/NN 村/SFN 、/EC 3/CD 個/NNB 社區/NN ./.
+全鎮/NN 轄域/DEC 總/PFA 面積/NN 154.2/CD 平方公里/NNB ,/, 總/PFA 人口/NN 35,190/CD 人/NN (/( 2000/CD 年/NNB 人口/NN 普查/NN )/) ,/, 下轄/VV 10/CD 個/NNB 行政/NN 村/SFN 、/EC 3/CD 個/NNB 社區/NN ./.
 他/PRP 幼年/NN 受/VV 過/AS 良好/JJ 的/DEC 教育/NN ,/, 通曉/VV 拉丁/NNP 語/SFN 和/CC 希臘/NNP 語/SFN ,/CD 能/SFN 誦/NNP 荷馬/NN 史詩/DEC 原文/NN ,/, 併/RB 到/VV 雅典/NNP 學/SFN 過/VV 哲學/NN ./.
 全詩/RB 計/VV 12/CD 卷/NNB ,/, 長達/VV 近/VV 萬/CD 行/NNB ,/, 是/VC 遵照/NN 奧古斯都/NN 的/DEC 旨意/NN 創作/VV 出來/VV 的/UH ./.
 其/PRP 散文/DEC 語言/NN 簡潔/. 凝練/'' ,/, 樸實無華/NN ,/, 體現/VV 了/AS 和/IN 西塞羅/VV 迥異/JJ 的/DEC 風格/NN ./.
@@ -320,7 +320,7 @@
 向島/CD TB/NNB (/( 向島/NN 本線/NN 料金/CD 所/NNB )/) 是/VC 位/VV 於/VV 廣島/NNP 縣/SFN 尾道/NN 市/SFN 的/DEC 西/NN 瀨戶/NN 自動/JJ 車道/NN (/( 瀨戶/CD 內島/NNB 波海/CD 道/NNB )/) 之/DEC 收費/NN 站/SFN ./.
 獨特/JJ 的/DEC 地理/NN 條件/NN 和/CC 氣候/NN 特點/NN 造就/VV 了/AS 春夏/CD 間/NNB 雲山/NN 霧海/NN 的/DEC 奇景/NN ,/, 使/VV 向陽/NN 成/VV 為/VC 夏日/NN 休閑/NN 避暑/NN 的/DEC 聖地/NN ,/, 同時/NN 為/VC 我鄉/CD 名優特/NNB 水果/NN 、/EC 速生/NNP 豐產/NNP 林/NNP 、/EC 食用/VV 菌/SFN 、/EC 有機/JJ 茶葉/NN 等/NN 綠色/DEC 農業/NN 成/VV 規模/NN 開發/VV 提供/VV 了/AS 得天獨厚/JJ 的/DEC 自然/NN 條件/NN ./.
 伊呂西/IN 60/CD 年代/NNB 師從/VV 格羅滕迪克/NN ,/, 參與/VV 了/AS 代數/NN 幾何/NN 討論/VV 班/NN ./.
-宋/NNP 太宗/NNP 去世/VV 後/IN ,/, 內侍/VV 王/NNP 繼恩/NN 密謀/NN 廢掉/DEC 太子/NN ,/, 另立/VV 君王/NN ./.
+宋/NNP 太宗/NNP 去世/VV 後/IN ,/, 內侍/VV 王/NNP 繼恩/NN 密謀/DEC 廢掉/NN 太子/NN ,/, 另立/VV 君王/NN ./.
 此外/NN ,/, 君主/NN 要/MD 做到/VV 珍惜/NN 人才/NN ,/, 任人為賢/NN ,/, 激勵/VV 人們/NN 在/IN 各行/CD 各業/NNB 做好/CD 本職/NNB 工作/NN ./.
 1048/CD 年/NNB 帝國/NN 與/CC 塞爾柱/NNP 人/SFN 在/IN 亞美尼亞/NN 發生/VV 衝突/NN ,/, 但/RB 不久/NN 即/RB 締結/VV 和約/NN ./.
 這/DT 次/NNB 叛亂/NN 大大/RB 削弱/VV 了/AS 帝國/NN 在/IN 巴爾幹/NNP 地區/NN 的/DEC 防禦/NN 力量/NN ,/, 導致/VV 1048/CD 年/NNB 佩切涅格/NN 人/SFN 入侵/VV 該/DT 地區/NN ,/, 並/RB 在/IN 此後/NN 5/CD 年/NNB 多/CD 次/NNB 進行/VV 劫掠/NN ,/, 造成/VV 很大/JJ 破壞/NN ./.
@@ -392,7 +392,7 @@ Lucy/NN 在/IN 月光/NNP 石/SFN 上/IN 施咒/NN ,/, 交給/VV Katherine/NN ./
 因/IN 相當/RB 著迷/VV 小丑/NN ,/, 而/RB 開始/VV 分析/NN 和/CC 研究/NN 有關/IN 他/PRP 的/DEC 事/NN ,/, 還/RB 瘋狂/JJ 地/DEV 愛上/VV 他/PRP ./.
 聖/NNP 誕/VV 晚會/NN 上/IN ,/, 哈利/NNP 、/EC 羅恩/NNP 、/EC 赫敏/NN 分別/RB 提出/VV 或/CC 接受/VV 了/AS 異性/NN 的/DEC 邀請/NN ,/, 與/IN 舞伴/NN 一起/NN 參與/VV 了/AS 晚會/NN ./.
 最近/JJ 的/DEC 公交/NN 車站/NN 為/VC 九三五/NNP 廠/SFN 站/SFN ./.
-2011/CD 年/NNB ,/, 哈爾濱/NNP 實現/VV 地區/NN 生產/NN 總值/NN 4243.4億/CD 元/NNB ,/, 比/IN 上年/NN 增長/VV 12.3%/NN ,/, 連續/RB 9/CD 年/NNB 保持/VV 12%/NN 以上/IN 的/DEC 增長/NN 速度/NN ./.
+2011/CD 年/NNB ,/, 哈爾濱/NNP 實現/VV 地區/NN 生產/NN 總值/NN 4243.4億/CD 元/NNB ,/, 比/IN 上年/NN 增長/VV 12.3%/CD ,/, 連續/RB 9/CD 年/NNB 保持/VV 12%/CD 以上/NN 的/DEC 增長/NN 速度/NN ./.
 其中/NN 哈爾濱/NNP 電機/NNP 廠/SFN 產品/NN 佔/VV 全國/NN 水電/NN 工程/NN 設備/NN 數量/NN 的/DEC 二分之一/NN ,/, 火電/NN 工程/NN 設備/NN 數量/NN 的/DEC 三分之一/NN ,/, 總量/NN 的/DEC 二分之一/NN ,/, 也是/VC 三/CD 峽/SFN 工程/NN 設備/NN 供應/VV 國內/NN 唯一/JJ 中標/DEC 單位/NN ,/, 成/VV 為/VC 同/DT 行業/NN 龍頭/NN ./.
 哈爾濱/NNP 正/RB 處/VV 於/IN 金融/NN 業/SFN 加速/VV 期/SFN ,/, 其/PRP 金融/NN 業/SFN 的/DEC 「/`` 利基/NN 市場/NN 」/'' 成/VV 為/VC 國內外/NN 銀行/NN 紛紛/RB 鎖定/VV 的/DEC 一/CD 塊/NNB 肥碩/NN 蛋糕/NN ./.
 哈德遜/NNP (/( Hudson/NN ,/, Ohio/FW )/) 是/VC 美國/NNP 俄亥俄/NNP 州/SFN 薩米特/NN 縣/SFN 的/DEC 一/CD 個/NNB 城市/NN ./.
@@ -483,10 +483,10 @@ Lucy/NN 在/IN 月光/NNP 石/SFN 上/IN 施咒/NN ,/, 交給/VV Katherine/NN ./
 2010/CD 年/NNB 1/CD 月/NNB 12/CD 日/NNB 海地/NNP 地震/NN 中/IN 三/CD 層/NNB 中/IN 較高/JJ 的/DEC 兩/CD 層/NNB 倒塌/NN ./.
 於/IN 2004/CD 年/NNB 12/CD 月/NNB ,/, 國家/NN 應變/DEC 計劃/NN 正式/RB 生效/VV ./.
 國家/NN 足球/NN 博物/NN 館/SFN (/( The/FW National/FW Football/FW Museum/FW )/) 是/VC 英國/NNP 的/DEC 一/CD 座/NNB 博物/NN 館/SFN ./.
-74/NNP 軍/SFN 成軍/DEC 不久/NN 隨即/RB 參與/VV 1937/CD 年/NNB 8/CD 月/NNB 13/CD 日/NNB 爆發/VV 之/DEC 淞/NN 滬/NNP 會戰/NN ,/, 51/CD 師/NN 在/IN 羅店/NN 、/EC 58/CD 師/NN 在/IN 蘊藻濱/NN 戰場/NN ,/, 隨後/RB 因/IN 損失/NN 過重/JJ 於/IN 11/CD 月/NNB 9/CD 日/NNB 撤出/VV 淞/NNP 滬/NNP 戰場/NN 休整/NN ./.
+74/CD 軍/NN 成軍/DEC 不久/NN 隨即/RB 參與/VV 1937/CD 年/NNB 8/CD 月/NNB 13/CD 日/NNB 爆發/VV 之/DEC 淞/NN 滬/NNP 會戰/NN ,/, 51/CD 師/NN 在/IN 羅店/NN 、/EC 58/CD 師/NN 在/IN 蘊藻濱/NN 戰場/NN ,/, 隨後/RB 因/IN 損失/NN 過重/JJ 於/IN 11/CD 月/NNB 9/CD 日/NNB 撤出/VV 淞/NNP 滬/NNP 戰場/NN 休整/NN ./.
 1941/CD 年/NNB 12/CD 月/NNB 日/NNP 軍/SFN 偷襲/VV 珍珠/NNP 港/SFN ,/, 隨後/RB 進攻/VV 緬甸/NNP ,/, 企圖/VV 切斷/VV 中國/NNP 唯一/JJ 對外/JJ 之/DEC 陸上/NN 補給/NN 線/SFN ./.
 第五/CD 軍/NN 軍長/. 杜/NNP 聿明/NN 後/IN 在/VV 史迪威/NN 壓力/NN 下/IN 兼任/VV 遠征/NNP 軍/SFN 代理/VV 司令/NN 長官/NN ./.
-此時/NN ,/, 該軍/RB 下轄/VV 第33/CD 師/NN 、/EC 第117/NNP 師/SFN 及/CC 獨立/JJ 第6/CD 旅/NNP ,/, 在/IN 蘇魯/NN 戰區/NN 擔任/VV 敵後/NN 戰場/NN 對/IN 日/NNP 作戰/NN 和/CC 被/BB 共產/VV 黨/SFN 彭/NNP 雪楓/NNP 軍/SFN 偷襲/VV ,/, 政府/NN 軍/SFN 傷亡/VV 慘重/JJ ./.
+此時/NN ,/, 該軍/RB 下轄/VV 第33/CD 師/NN 、/EC 第117/CD 師/NN 及/CC 獨立/JJ 第6/CD 旅/NNP ,/, 在/IN 蘇魯/NN 戰區/NN 擔任/VV 敵後/NN 戰場/NN 對/IN 日/NNP 作戰/NN 和/CC 被/BB 共產/VV 黨/SFN 彭/NNP 雪楓/NNP 軍/SFN 偷襲/VV ,/, 政府/NN 軍/SFN 傷亡/VV 慘重/JJ ./.
 當時/NN 的/DEC 香港/NNP 政府/NN 後來/NN 把/BB 香港/NNP 以南/NN 的/DEC 航線/NN 分予/. 國泰/NNP 經營/VV ,/, 以北/NN 的/DEC 則/RB 交予/VV 國泰/NNP 唯一/JJ 本地/NN 對手/NN ,/, 怡和/NNP 洋行/NN 屬下/NN 的/DEC 香港/NNP 航空/NN 經營/VV ./.
 1946/CD 年/NNB 11/CD 月/NNB ,/, 國/NN 立/VV 中央/NN 大學/NN 遷回/. 南京/NNP ./.
 1949/CD 年/NNB 1/CD 月/NNB ,/, 南京/NNP 政府/NN 的/DEC 失敗/NN 已經/RB 成/VV 為/VC 定局/NN ,/, 政府/NN 機關/NN 開始/VV 南遷/VV ,/, 中大/NN 校長/NN 周/NNP 鴻經/NN 也/RB 奉命/VV 遷校/VV ./.
