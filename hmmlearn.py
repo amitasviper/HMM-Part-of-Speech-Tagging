@@ -5,7 +5,7 @@ import sys
 from math import log
 import numpy as np
 from collections import Counter
-incrementer = 0.000000001
+incrementer = 0.00000000001
 
 def getFileContents(filename):
     data = None
@@ -146,7 +146,7 @@ def buildTransitionMatrix(tagged_data, tags_dict):
         for feature in feature_tags:
             possible_tags = feature_tags[feature]
             possible_tags_counter = Counter(possible_tags)
-            print "Values are : ", possible_tags_counter.most_common(1)
+            # print "Values are : ", possible_tags_counter.most_common(1)
             best_possible_tag, tag_count = possible_tags_counter.most_common(1)[0]
             
             if tag_count > feature_counts[feature] * 0.35:
@@ -231,11 +231,11 @@ def printEmissionProbabilities(count):
                     return
 
 
-def writeModelToFile(probability_transition_matrix, opening_probabilities, closing_probabilities, probability_emission_matrix, tags_index_dict, words_index_dict, new_feature_tags):
+def writeModelToFile(probability_transition_matrix, opening_probabilities, closing_probabilities, probability_emission_matrix, tags_index_dict, words_index_dict, new_feature_tags, most_used_tag):
     total_tags = len(tags_index_dict.keys())
     total_words = len(words_index_dict.keys())
         
-    lineCounter = 7
+    lineCounter = 8
     text = ''
     
     text += '---------------------TransitionMatrix---------------------' + '\n'
@@ -289,6 +289,15 @@ def writeModelToFile(probability_transition_matrix, opening_probabilities, closi
     for feature_name in new_feature_tags.keys():
         text += feature_name + '\t' + new_feature_tags[feature_name] + '\n'
         af_end_line_number += 1
+
+    text += '---------------------MostUsedTag---------------------' + '\n'
+
+    mut_start_line_number = af_end_line_number + 1
+    mut_end_line_number = mut_start_line_number
+
+    text += most_used_tag + '\n'
+
+    mut_end_line_number += 1
     
     header = ''
     header += 'total_tags:' + str(total_tags) + '\n'
@@ -298,6 +307,7 @@ def writeModelToFile(probability_transition_matrix, opening_probabilities, closi
     header += 'open_close_probabilities:' + str(oc_start_line_number) + ':' + str(oc_end_line_number) + '\n'
     header += 'word_indexes:' + str(wi_start_line_number) + ':' + str(wi_end_line_number) + '\n'
     header += 'additional_features:' + str(af_start_line_number) + ':' + str(af_end_line_number) + '\n'
+    header += 'most_used_tag:' + str(mut_start_line_number) + ':' + str(mut_end_line_number) + '\n'
     
     text = header + text
     filename = 'hmmmodel.txt'
@@ -318,5 +328,7 @@ if __name__ == '__main__':
 
     probability_emission_matrix, tags_index_dict, words_index_dict, words_index_dict_reverse = computeEmissionProbabilities(tagged_data, tags_dict)
 
-    writeModelToFile(probability_transition_matrix, opening_probabilities, closing_probabilities, probability_emission_matrix, tags_index_dict, words_index_dict, new_feature_tags)
-    print "Done"
+    most_used_tag = max(tags_dict, key=tags_dict.get)
+
+    writeModelToFile(probability_transition_matrix, opening_probabilities, closing_probabilities, probability_emission_matrix, tags_index_dict, words_index_dict, new_feature_tags, most_used_tag)
+    # print "Done"
