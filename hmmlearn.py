@@ -123,13 +123,13 @@ def buildTransitionMatrix(tagged_data, tags_dict):
         for word_tag_pair in word_tag_pairs:
             word, tag = splitWordTag(word_tag_pair)
             
-            if word.count('=') > 10 or word.count('_') > 10 or word.count('*') > 10 or word.count('-') > 10 or word.count('+') > 10:
-                feature_tags['PAGE_SEP'].append(tag)
-                feature_counts['PAGE_SEP'] += 1
-                
-            elif any(word.lower().endswith(last) for last in ('.com', '.net', '.org', '.edu')) or word.startswith('http') or word.startswith('www.'):
+            if any(word.lower().endswith(last) for last in ('.com', '.net', '.org', '.edu')) or word.startswith('http') or word.startswith('www.'):
                 feature_tags['URLS'].append(tag)
                 feature_counts['URLS'] += 1
+
+            elif word.count('=') > 10 or word.count('_') > 10 or word.count('*') > 10 or word.count('-') > 10 or word.count('+') > 10:
+                feature_tags['PAGE_SEP'].append(tag)
+                feature_counts['PAGE_SEP'] += 1
                 
             elif [char.isdigit() for char in word].count(True) * 1.0 > len(word) * 0.4:
                 feature_tags['NUMERICS'].append(tag)

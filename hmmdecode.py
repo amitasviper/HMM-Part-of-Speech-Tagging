@@ -163,16 +163,18 @@ def getMostProbableTags(sentence):
                 if word_emission_probability == 0.0:
                     continue
             except KeyError as e:
-                if word.count('=') > 10 or word.count('_') > 10 or word.count('*') > 10 or word.count('-') > 10 or word.count('+') > 10:
-                    if model_tag == additional_features['PAGE_SEP']:
-                        word_emission_probability = 1.0
-                    else:
-                        word_emission_probability = 1.1754943508222875e-30
-                elif any(word.lower().endswith(last) for last in ('.com', '.net', '.org', '.edu')) or word.startswith('http') or word.startswith('www.'):
+                if any(word.lower().endswith(last) for last in ('.com', '.net', '.org', '.edu')) or word.startswith('http') or word.startswith('www.'):
                     if model_tag == additional_features['URLS']:
                         word_emission_probability = 1.0
                     else:
                         word_emission_probability = 1.1754943508222875e-30
+
+                elif word.count('=') > 10 or word.count('_') > 10 or word.count('*') > 10 or word.count('-') > 10 or word.count('+') > 10:
+                    if model_tag == additional_features['PAGE_SEP']:
+                        word_emission_probability = 1.0
+                    else:
+                        word_emission_probability = 1.1754943508222875e-30
+
                 elif [char.isdigit() for char in word].count(True) * 1.0 > len(word) * 0.4:
                     if model_tag == additional_features['NUMERICS']:
                         word_emission_probability = 1.0
