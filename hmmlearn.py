@@ -5,7 +5,8 @@ import sys
 from math import log
 import numpy as np
 from collections import Counter
-incrementer = 0.000000001
+incrementer = 1.0
+incrementer2 = 0.00000000001
 
 def getFileContents(filename):
     data = None
@@ -40,7 +41,7 @@ def getUniqueTags(tagged_data):
 
 
 def getOpenProbabilities(tagged_data, all_tags_dict):
-    global incrementer
+    global incrementer2
     sentences_count = len(tagged_data)
     open_tag_count_dict = {}
     for line in tagged_data:
@@ -52,23 +53,23 @@ def getOpenProbabilities(tagged_data, all_tags_dict):
             open_tag_count_dict[tag] = 1
     
     #increment all existing tags count to one
-    open_tag_count_dict.update((tag, occurances + incrementer) for tag, occurances in open_tag_count_dict.items())
-    sentences_count += (sentences_count*incrementer)
+    open_tag_count_dict.update((tag, occurances + incrementer2) for tag, occurances in open_tag_count_dict.items())
+    sentences_count += (sentences_count*incrementer2)
     
     #add one to non-opening tags
     for tag in all_tags_dict.keys():
         try:
             val = open_tag_count_dict[tag]
         except KeyError as e:
-            open_tag_count_dict[tag] = incrementer
-            sentences_count += incrementer
+            open_tag_count_dict[tag] = incrementer2
+            sentences_count += incrementer2
     
     open_tag_count_dict.update((tag, (occurances*1.0)/sentences_count) for tag, occurances in open_tag_count_dict.items())
     return open_tag_count_dict
 
 
 def getCloseProbabilities(tagged_data, all_tags_dict):
-    global incrementer
+    global incrementer2
     sentences_count = len(tagged_data)
     close_tag_count_dict = {}
     for line in tagged_data:
@@ -80,17 +81,17 @@ def getCloseProbabilities(tagged_data, all_tags_dict):
             close_tag_count_dict[tag] = 1
             
     #increment all existing tags count by one
-    close_tag_count_dict.update((tag, occurances + incrementer) for tag, occurances in close_tag_count_dict.items())
+    close_tag_count_dict.update((tag, occurances + incrementer2) for tag, occurances in close_tag_count_dict.items())
     
-    sentences_count += (sentences_count*incrementer)
+    sentences_count += (sentences_count*incrementer2)
     
     #add one to non-closing tags
     for tag in all_tags_dict.keys():
         try:
             val = close_tag_count_dict[tag]
         except KeyError as e:
-            close_tag_count_dict[tag] = incrementer
-            sentences_count += incrementer
+            close_tag_count_dict[tag] = incrementer2
+            sentences_count += incrementer2
             
     close_tag_count_dict.update((tag, (occurances*1.0)/sentences_count) for tag, occurances in close_tag_count_dict.items())
     return close_tag_count_dict
@@ -122,13 +123,13 @@ def buildTransitionMatrix(tagged_data, tags_dict):
         for word_tag_pair in word_tag_pairs:
             word, tag = splitWordTag(word_tag_pair)
             
-            if word.count('=') > 10 or word.count('_') > 10 or word.count('*') > 10 or word.count('-') > 10 or word.count('+') > 10:
-                feature_tags['PAGE_SEP'].append(tag)
-                feature_counts['PAGE_SEP'] += 1
-                
-            elif any(word.lower().endswith(last) for last in ('.com', '.net', '.org', '.edu')) or word.startswith('http') or word.startswith('www.'):
+            if any(word.lower().endswith(last) for last in ('.com', '.net', '.org', '.edu')) or word.startswith('http') or word.startswith('www.'):
                 feature_tags['URLS'].append(tag)
                 feature_counts['URLS'] += 1
+
+            elif word.count('=') > 10 or word.count('_') > 10 or word.count('*') > 10 or word.count('-') > 10 or word.count('+') > 10:
+                feature_tags['PAGE_SEP'].append(tag)
+                feature_counts['PAGE_SEP'] += 1
                 
             elif [char.isdigit() for char in word].count(True) * 1.0 > len(word) * 0.4:
                 feature_tags['NUMERICS'].append(tag)
@@ -146,12 +147,13 @@ def buildTransitionMatrix(tagged_data, tags_dict):
         for feature in feature_tags:
             possible_tags = feature_tags[feature]
             possible_tags_counter = Counter(possible_tags)
-            print "Values are : ", possible_tags_counter.most_common(1)
-            best_possible_tag, tag_count = possible_tags_counter.most_common(1)[0]
-            
-            if tag_count > feature_counts[feature] * 0.35:
-                new_feature_tags[feature] = best_possible_tag
+            possible_tags_ct =  possible_tags_counter.most_common(1)
+            if len(possible_tags) > 0:
+                best_possible_tag, tag_count = possible_tags_ct[0]
+                if tag_count > feature_counts[feature] * 0.35:
+                    new_feature_tags[feature] = best_possible_tag
     except:
+        print "Fat raha hai"
         pass        
     transition_matrix = transition_matrix + incrementer
     
@@ -231,11 +233,11 @@ def printEmissionProbabilities(count):
                     return
 
 
-def writeModelToFile(probability_transition_matrix, opening_probabilities, closing_probabilities, probability_emission_matrix, tags_index_dict, words_index_dict, new_feature_tags):
+def writeModelToFile(probability_transition_matrix, opening_probabilities, closing_probabilities, probability_emission_matrix, tags_index_dict, words_index_dict, new_feature_tags, most_used_tag):
     total_tags = len(tags_index_dict.keys())
     total_words = len(words_index_dict.keys())
         
-    lineCounter = 7
+    lineCounter = 8
     text = ''
     
     text += '---------------------TransitionMatrix---------------------' + '\n'
@@ -289,6 +291,15 @@ def writeModelToFile(probability_transition_matrix, opening_probabilities, closi
     for feature_name in new_feature_tags.keys():
         text += feature_name + '\t' + new_feature_tags[feature_name] + '\n'
         af_end_line_number += 1
+
+    text += '---------------------MostUsedTag---------------------' + '\n'
+
+    mut_start_line_number = af_end_line_number + 1
+    mut_end_line_number = mut_start_line_number
+
+    text += most_used_tag + '\n'
+
+    mut_end_line_number += 1
     
     header = ''
     header += 'total_tags:' + str(total_tags) + '\n'
@@ -298,6 +309,7 @@ def writeModelToFile(probability_transition_matrix, opening_probabilities, closi
     header += 'open_close_probabilities:' + str(oc_start_line_number) + ':' + str(oc_end_line_number) + '\n'
     header += 'word_indexes:' + str(wi_start_line_number) + ':' + str(wi_end_line_number) + '\n'
     header += 'additional_features:' + str(af_start_line_number) + ':' + str(af_end_line_number) + '\n'
+    header += 'most_used_tag:' + str(mut_start_line_number) + ':' + str(mut_end_line_number) + '\n'
     
     text = header + text
     filename = 'hmmmodel.txt'
@@ -318,5 +330,7 @@ if __name__ == '__main__':
 
     probability_emission_matrix, tags_index_dict, words_index_dict, words_index_dict_reverse = computeEmissionProbabilities(tagged_data, tags_dict)
 
-    writeModelToFile(probability_transition_matrix, opening_probabilities, closing_probabilities, probability_emission_matrix, tags_index_dict, words_index_dict, new_feature_tags)
-    print "Done"
+    most_used_tag = max(tags_dict, key=tags_dict.get)
+
+    writeModelToFile(probability_transition_matrix, opening_probabilities, closing_probabilities, probability_emission_matrix, tags_index_dict, words_index_dict, new_feature_tags, most_used_tag)
+    # print "Done"

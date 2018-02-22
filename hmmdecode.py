@@ -4,7 +4,6 @@ import os
 import sys
 from math import log
 import numpy as np
-incrementer = 1.0
 
 
 def getFileContents(filename):
@@ -78,6 +77,9 @@ def parseModel(lines):
     
     af_start_line_number = int(lines[6].strip().split(':')[-2])
     af_end_line_number = int(lines[6].strip().split(':')[-1])
+
+    mut_start_line_number = int(lines[7].strip().split(':')[-2])
+    mut_end_line_number = int(lines[7].strip().split(':')[-1])
     
 #     print total_tags, total_words, tr_start_line_number, tr_end_line_number, em_start_line_number, em_end_line_number, oc_start_line_number,oc_end_line_number, wi_start_line_number, wi_end_line_number
     
@@ -116,7 +118,13 @@ def parseModel(lines):
     for line_number in range(wi_start_line_number, wi_end_line_number, 1):
         row_values = lines[line_number].strip().split('\t')
         word = row_values[0]
-        index = int(row_values[1])
+        index = None
+        try:
+            index = int(row_values[1])
+        except:
+            index = int(row_values[0])
+            word = " "
+            print "Empty space as a word present in model"
         words_index_dict[word] = index
         words_index_dict_reverse[index] = word
         
@@ -127,14 +135,16 @@ def parseModel(lines):
         feature_tag = row_values[1]
         additional_features[feature_name] = feature_tag
     
+    most_frequent_tag = lines[mut_start_line_number].strip()
+    # print "The most frequent tag is : ", most_frequent_tag
         
-    return opening_probabilities, closing_probabilities, probability_transition_matrix, probability_emission_matrix, tags_index_dict, tags_index_dict_reverse, words_index_dict, words_index_dict_reverse, additional_features
+    return opening_probabilities, closing_probabilities, probability_transition_matrix, probability_emission_matrix, tags_index_dict, tags_index_dict_reverse, words_index_dict, words_index_dict_reverse, additional_features, most_frequent_tag
 
 
 
 def getMostProbableTags(sentence):
     global opening_probabilities, closing_probabilities, probability_transition_matrix, probability_emission_matrix, tags_index_dict, tags_index_dict_reverse, words_index_dict, words_index_dict_reverse 
-    global tag_count, unseen_words, additional_features
+    global tag_count, unseen_words, additional_features, most_frequent_tag
     
     sentence_words = sentence.strip().split(' ')
     
@@ -142,7 +152,7 @@ def getMostProbableTags(sentence):
     
     viterbi_matrix = np.zeros(shape=(tag_count, sentence_len))
     
-    tracing_matrix = [[None for x in range(sentence_len)] for y in range(tag_count)]
+    tracing_matrix = [[most_frequent_tag for x in range(sentence_len)] for y in range(tag_count)]
     
     for col in range(sentence_len):
         word = sentence_words[col]
@@ -153,16 +163,18 @@ def getMostProbableTags(sentence):
                 if word_emission_probability == 0.0:
                     continue
             except KeyError as e:
-                if word.count('=') > 10 or word.count('_') > 10 or word.count('*') > 10 or word.count('-') > 10 or word.count('+') > 10:
-                    if model_tag == additional_features['PAGE_SEP']:
-                        word_emission_probability = 1.0
-                    else:
-                        word_emission_probability = 1.1754943508222875e-30
-                elif any(word.lower().endswith(last) for last in ('.com', '.net', '.org', '.edu')) or word.startswith('http') or word.startswith('www.'):
+                if any(word.lower().endswith(last) for last in ('.com', '.net', '.org', '.edu')) or word.startswith('http') or word.startswith('www.'):
                     if model_tag == additional_features['URLS']:
                         word_emission_probability = 1.0
                     else:
                         word_emission_probability = 1.1754943508222875e-30
+
+                elif word.count('=') > 10 or word.count('_') > 10 or word.count('*') > 10 or word.count('-') > 10 or word.count('+') > 10:
+                    if model_tag == additional_features['PAGE_SEP']:
+                        word_emission_probability = 1.0
+                    else:
+                        word_emission_probability = 1.1754943508222875e-30
+
                 elif [char.isdigit() for char in word].count(True) * 1.0 > len(word) * 0.4:
                     if model_tag == additional_features['NUMERICS']:
                         word_emission_probability = 1.0
@@ -183,7 +195,7 @@ def getMostProbableTags(sentence):
                 viterbi_matrix[model_tag_index][col] = tag_opening_probability * word_emission_probability
             else:
                 max_probability = 0.0 #np.finfo(float).min
-                max_tag = None
+                max_tag = most_frequent_tag
                 
                 for prev_model_tag in tags_index_dict:
                     prev_model_tag_index = tags_index_dict[prev_model_tag]
@@ -200,7 +212,7 @@ def getMostProbableTags(sentence):
                 tracing_matrix[model_tag_index][col] = max_tag
     
     max_probability = 0.0 #np.finfo(float).min
-    max_probability_tag = None
+    max_probability_tag = most_frequent_tag
     for model_tag in tags_index_dict:
         model_tag_index = tags_index_dict[model_tag]
         temp_probability = 0.0
@@ -226,7 +238,6 @@ def getMostProbableTags(sentence):
     for index, assigned_tag in enumerate(assigned_tags):
         anotated_sentence += str(sentence_words[index]) + '/' + str(assigned_tag) + ' '
     
-    
     return anotated_sentence.strip()
 
 def startPredicting():
@@ -244,8 +255,10 @@ def startPredicting():
 
 if __name__ == '__main__':
     lines = readModelFile()
-    opening_probabilities, closing_probabilities, probability_transition_matrix, probability_emission_matrix, tags_index_dict, tags_index_dict_reverse, words_index_dict, words_index_dict_reverse, additional_features  = parseModel(lines)
-    print additional_features
+    opening_probabilities, closing_probabilities, probability_transition_matrix, probability_emission_matrix, tags_index_dict, tags_index_dict_reverse, words_index_dict, words_index_dict_reverse, additional_features, most_frequent_tag  = parseModel(lines)
+    # print additional_features
+    # MIN_VAL = min([min(r) for r in a])
     tag_count = len(tags_index_dict.keys())
     startPredicting()
+    # print "Done"
 
