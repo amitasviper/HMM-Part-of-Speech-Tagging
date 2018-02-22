@@ -5,7 +5,8 @@ import sys
 from math import log
 import numpy as np
 from collections import Counter
-incrementer = 0.00000000001
+incrementer = 1.0
+incrementer2 = 0.00000000001
 
 def getFileContents(filename):
     data = None
@@ -40,7 +41,7 @@ def getUniqueTags(tagged_data):
 
 
 def getOpenProbabilities(tagged_data, all_tags_dict):
-    global incrementer
+    global incrementer2
     sentences_count = len(tagged_data)
     open_tag_count_dict = {}
     for line in tagged_data:
@@ -52,23 +53,23 @@ def getOpenProbabilities(tagged_data, all_tags_dict):
             open_tag_count_dict[tag] = 1
     
     #increment all existing tags count to one
-    open_tag_count_dict.update((tag, occurances + incrementer) for tag, occurances in open_tag_count_dict.items())
-    sentences_count += (sentences_count*incrementer)
+    open_tag_count_dict.update((tag, occurances + incrementer2) for tag, occurances in open_tag_count_dict.items())
+    sentences_count += (sentences_count*incrementer2)
     
     #add one to non-opening tags
     for tag in all_tags_dict.keys():
         try:
             val = open_tag_count_dict[tag]
         except KeyError as e:
-            open_tag_count_dict[tag] = incrementer
-            sentences_count += incrementer
+            open_tag_count_dict[tag] = incrementer2
+            sentences_count += incrementer2
     
     open_tag_count_dict.update((tag, (occurances*1.0)/sentences_count) for tag, occurances in open_tag_count_dict.items())
     return open_tag_count_dict
 
 
 def getCloseProbabilities(tagged_data, all_tags_dict):
-    global incrementer
+    global incrementer2
     sentences_count = len(tagged_data)
     close_tag_count_dict = {}
     for line in tagged_data:
@@ -80,17 +81,17 @@ def getCloseProbabilities(tagged_data, all_tags_dict):
             close_tag_count_dict[tag] = 1
             
     #increment all existing tags count by one
-    close_tag_count_dict.update((tag, occurances + incrementer) for tag, occurances in close_tag_count_dict.items())
+    close_tag_count_dict.update((tag, occurances + incrementer2) for tag, occurances in close_tag_count_dict.items())
     
-    sentences_count += (sentences_count*incrementer)
+    sentences_count += (sentences_count*incrementer2)
     
     #add one to non-closing tags
     for tag in all_tags_dict.keys():
         try:
             val = close_tag_count_dict[tag]
         except KeyError as e:
-            close_tag_count_dict[tag] = incrementer
-            sentences_count += incrementer
+            close_tag_count_dict[tag] = incrementer2
+            sentences_count += incrementer2
             
     close_tag_count_dict.update((tag, (occurances*1.0)/sentences_count) for tag, occurances in close_tag_count_dict.items())
     return close_tag_count_dict
@@ -146,12 +147,13 @@ def buildTransitionMatrix(tagged_data, tags_dict):
         for feature in feature_tags:
             possible_tags = feature_tags[feature]
             possible_tags_counter = Counter(possible_tags)
-            # print "Values are : ", possible_tags_counter.most_common(1)
-            best_possible_tag, tag_count = possible_tags_counter.most_common(1)[0]
-            
-            if tag_count > feature_counts[feature] * 0.35:
-                new_feature_tags[feature] = best_possible_tag
+            possible_tags_ct =  possible_tags_counter.most_common(1)
+            if len(possible_tags) > 0:
+                best_possible_tag, tag_count = possible_tags_ct[0]
+                if tag_count > feature_counts[feature] * 0.35:
+                    new_feature_tags[feature] = best_possible_tag
     except:
+        print "Fat raha hai"
         pass        
     transition_matrix = transition_matrix + incrementer
     
